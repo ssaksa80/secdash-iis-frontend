@@ -1,0 +1,29 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Backups and logs
+*.bak
+*.log
+web.config.bak
+
+# Never commit real certificate / key material or filled-in secrets.
+# This repo ships placeholders only; a working copy that fills in a real
+# certificate, host or credential must not push it back.
+*.pfx
+*.p12
+*.cer
+*.crt
+*.key
+*.pem
+.env
+.env.*
+*.local.config
