@@ -28,3 +28,7 @@ All hostnames, IPs and certificate references are placeholders — `<secdash-dns
 
 This repository is only the IIS/TLS front-end config. It does not vendor, fork, or depend
 on the SECDASH application repository or any other project.
+
+## License
+
+MIT — see [`LICENSE`](LICENSE).
